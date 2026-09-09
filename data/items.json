@@ -1,0 +1,92 @@
+[
+  {
+    "id": "a3f2c1",
+    "itemName": "Black leather wallet",
+    "type": "lost",
+    "place": "Library",
+    "date": "2026-09-05",
+    "contact": "pranav@college.edu",
+    "status": "open"
+  },
+  {
+    "id": "b7d4i2",
+    "itemName": "Blue water bottle",
+    "type": "found",
+    "place": "Cafeteria",
+    "date": "2026-09-04",
+    "contact": "rahul@college.edu",
+    "status": "open"
+  },
+  {
+    "id": "c1e7f5",
+    "itemName": "Apple AirPods",
+    "type": "lost",
+    "place": "Computer Lab",
+    "date": "2026-09-03",
+    "contact": "priya@college.edu",
+    "status": "open"
+  },
+  {
+    "id": "d9n2b6",
+    "itemName": "Black backpack",
+    "type": "found",
+    "place": "Parking Area",
+    "date": "2026-09-02",
+    "contact": "arjun@college.edu",
+    "status": "claimed"
+  },
+  {
+    "id": "e4c9d1",
+    "itemName": "Silver wrist watch",
+    "type": "lost",
+    "place": "Auditorium",
+    "date": "2026-09-01",
+    "contact": "neha@college.edu",
+    "status": "open"
+  },
+  {
+    "id": "g8b3a9",
+    "itemName": "Engineering calculator",
+    "type": "found",
+    "place": "Classroom 204",
+    "date": "2026-08-31",
+    "contact": "rohan@college.edu",
+    "status": "open"
+  },
+  {
+    "id": "g2e5c8",
+    "itemName": "Red notebook",
+    "type": "lost",
+    "place": "Lecture Hall",
+    "date": "2026-08-30",
+    "contact": "sneha@college.edu",
+    "status": "resolved"
+  },
+  {
+    "id": "h8f1d3",
+    "itemName": "USB flash drive",
+    "type": "found",
+    "place": "Seminar Room",
+    "date": "2026-08-29",
+    "contact": "aman@college.edu",
+    "status": "open"
+  },
+  {
+    "id": "i5a9e4",
+    "itemName": "Green hoodie",
+    "type": "lost",
+    "place": "Sports Ground",
+    "date": "2026-08-28",
+    "contact": "kiran@college.edu",
+    "status": "open"
+  },
+  {
+    "id": "j3c6b7",
+    "itemName": "Student ID card",
+    "type": "found",
+    "place": "Main Gate",
+    "date": "2026-08-27",
+    "contact": "vikas@college.edu",
+    "status": "claimed"
+  }
+]
