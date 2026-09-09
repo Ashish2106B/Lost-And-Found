@@ -4,8 +4,7 @@ const app = express();
 const path = require('path');
 const fs = require('fs');
 
-const location = path.join(__dirname, 'items.json');
-
+const location = path.join(__dirname, 'data', 'items.json');
 
 app.get('/api/items', (req, res) => {
 
